@@ -1,5 +1,5 @@
 # React + Vite Project
-#Authentication by FIREBASE
+- Authentication by FIREBASE
 
 - live Link : https://dream-maker-7.web.app/
 
