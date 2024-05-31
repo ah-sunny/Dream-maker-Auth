@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "estate_title": "Sunnydale Villa",
+        "segment_name": "Luxury Homes",
+        "image": "https://i.ibb.co/R06jMbL/1.jpg",
+        "description": "A spacious and modern villa with a beautiful garden.",
+        "price": 750000,
+        "status": "sale",
+        "area": "3500 sq ft",
+        "location": "Beverly Hills",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "kitchen",
+            "garage",
+            "gym",
+            "home theater",
+            "office",
+            "sauna"
+        ]
+    },
+    {
+        "id": 2,
+        "estate_title": "Lakeside Cottage",
+        "segment_name": "Waterfront",
+        "image": "https://i.ibb.co/6w2pLRP/2.jpg",
+        "description": "Charming cottage with stunning lake views and private dock.",
+        "price": 450000,
+        "status": "sale",
+        "area": "2000 sq ft",
+        "location": "Lake Tahoe",
+        "facilities": [
+            "living room",
+            "boat dock",
+            "kitchen",
+            "fireplace",
+            "sunroom",
+            "garden",
+            "deck",
+            "hot tub"
+        ]
+    },
+    {
+        "id": 3,
+        "estate_title": "Urban Loft",
+        "segment_name": "City Living",
+        "image": "https://i.ibb.co/m444kbj/3.jpg",
+        "description": "Modern loft in a vibrant neighborhood, close to amenities.",
+        "price": 3000,
+        "status": "rent",
+        "area": "1200 sq ft",
+        "location": "New York City",
+        "facilities": [
+            "living room",
+            "rooftop",
+            "kitchen",
+            "elevator",
+            "doorman",
+            "balcony",
+            "gym",
+            "parking space"
+        ]
+    },
+    {
+        "id": 4,
+        "estate_title": "The Garden Residency",
+        "segment_name": "Suburban Retreat",
+        "image": "https://i.ibb.co/bF3DLzj/4.jpg",
+        "description": "Family-friendly residence with a large backyard and community amenities.",
+        "price": 500000,
+        "status": "sale",
+        "area": "2800 sq ft",
+        "location": "Austin, Texas",
+        "facilities": [
+            "living room",
+            "community pool",
+            "kitchen",
+            "playground",
+            "garden",
+            "library",
+            "bike path",
+            "security system"
+        ]
+    },
+    {
+        "id": 5,
+        "estate_title": "Penthouse Central",
+        "segment_name": "Urban Elite",
+        "image": "https://i.ibb.co/Fzh02Hp/5.jpg",
+        "description": "Luxurious penthouse with panoramic city views and top-notch finishes.",
+        "price": 10000,
+        "status": "rent",
+        "area": "4500 sq ft",
+        "location": "Chicago, Illinois",
+        "facilities": [
+            "living room",
+            "private elevator",
+            "chef's kitchen",
+            "wine cellar",
+            "rooftop terrace",
+            "spa bathroom",
+            "fitness center",
+            "concierge service"
+        ]
+    },
+    {
+        "id": 6,
+        "estate_title": "Coastal Escape",
+        "segment_name": "Beachfront",
+        "image": "https://i.ibb.co/0Qj9641/6.jpg",
+        "description": "Serene beach house with direct access to the shore and open floor plan.",
+        "price": 800000,
+        "status": "sale",
+        "area": "3000 sq ft",
+        "location": "Malibu, California",
+        "facilities": [
+            "living room",
+            "private beach",
+            "outdoor kitchen",
+            "sun deck",
+            "hot tub",
+            "fire pit",
+            "guest house",
+            "surf storage"
+        ]
+    },
+    {
+        "id": 7,
+        "estate_title": "Historic Manor",
+        "segment_name": "Classic Elegance",
+        "image": "https://i.ibb.co/gjrB0Qv/7.jpg",
+        "description": "A beautifully restored manor with timeless design and lush gardens.",
+        "price": 1200000,
+        "status": "sale",
+        "area": "5000 sq ft",
+        "location": "Savannah, Georgia",
+        "facilities": [
+            "living room",
+            "formal gardens",
+            "gourmet kitchen",
+            "library",
+            "conservatory",
+            "carriage house",
+            "wine cellar",
+            "original fireplaces"
+        ]
+    },
+    {
+        "id": 8,
+        "estate_title": "Skyline Condo",
+        "segment_name": "Modern Conveniences",
+        "image": "https://i.ibb.co/T8GKJ4R/8.jpg",
+        "description": "High-rise condo with smart home features and community lifestyle.",
+        "price": 3500,
+        "status": "rent",
+        "area": "1500 sq ft",
+        "location": "Seattle, Washington",
+        "facilities": [
+            "living room",
+            "smart home system",
+            "modern kitchen",
+            "fitness center",
+            "pet spa",
+            "lounge area",
+            "package service",
+            "parking garage"
+        ]
+    }
+]
